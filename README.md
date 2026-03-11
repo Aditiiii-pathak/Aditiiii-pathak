@@ -73,11 +73,10 @@ Building intelligent systems using Machine Learning, Computer Vision, and scalab
 </p>
 
 ---
-
 ## 💼 Work Experience
 
 **Machine Learning & Edge AI Intern at [ISRO – Space Applications Centre](https://www.sac.gov.in/)**
-`Jun 2025 – Aug 2025`
+`Jun 2025 – Aug 2025 • Ahmedabad, India`
 
 * Developed and optimized **machine learning models for edge deployment**, enabling efficient inference on resource-constrained devices.
 * Worked on **data preprocessing, model training, and performance evaluation** for real-world datasets.
@@ -87,7 +86,7 @@ Building intelligent systems using Machine Learning, Computer Vision, and scalab
 ---
 
 **Security Operations Intern at [Jio Platforms](https://www.jio.com/platforms/)**
-`Jan 2025 – Feb 2025`
+`Jan 2025 – Feb 2025 • Indore, India`
 
 * Assisted the **Security Operations Center (SOC)** in monitoring network activity and security alerts.
 * Performed **log analysis and threat investigation** to identify suspicious activities and potential vulnerabilities.
@@ -97,42 +96,35 @@ Building intelligent systems using Machine Learning, Computer Vision, and scalab
 ---
 
 **App Development Intern at [CSIR-CBRI](https://cbri.res.in/)**
-`Jun 2024 – Aug 2024`
+`Jun 2024 – Aug 2024 • Roorkee, India`
 
 * Contributed to the development and enhancement of **mobile application features** for internal research projects.
 * Integrated backend APIs and optimized application performance for smoother user interaction.
 * Assisted in implementing **AI-powered functionalities and image processing modules** within the mobile application.
 * Participated in testing, debugging, and improving the overall **usability and reliability** of the application.
-
 ---
-
-## 📊 GitHub Stats
-
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-pathak\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditi-pathak\&theme=tokyonight)
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiii-pathak&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 📫 Connect With Me
-
-<p align="left">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/aditi-pathak2704/">
-<img src="https://img.shields.io/badge/LinkedIn-Aditi%20Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" align="center"/> aditi-pathak2704
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:aditipathak2704@gmail.com">
-<img src="https://img.shields.io/badge/Email-aditipathak2704%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" align="center"/> aditipathak2704@gmail.com
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/aditiiii-pathak">
-<img src="https://img.shields.io/badge/GitHub-aditiiii--pathak-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" align="center"/> aditiiii-pathak
 </a>
-
 </p>
+
 
