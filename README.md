@@ -106,10 +106,6 @@ Building intelligent systems using Machine Learning, Computer Vision, and scalab
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditiiii-pathak&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiiii-pathak&theme=tokyonight"/>
 </p>
 
